@@ -11,7 +11,7 @@ import 'vue-ydui/dist/ydui.flexible.js'
 Vue.config.productionTip = false
 Vue.use(Vant);
 Vue.use(YDUI);
-
+const a='testcomuit'
 new Vue({
   router,
   store,
@@ -20,5 +20,3 @@ new Vue({
     window.vue=this
   }
 }).$mount('#app')
-
-
