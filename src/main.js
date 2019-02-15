@@ -12,6 +12,7 @@ Vue.config.productionTip = false
 Vue.use(Vant);
 Vue.use(YDUI);
 const a='testcomuit'
+const b='cc'
 new Vue({
   router,
   store,
